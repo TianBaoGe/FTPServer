@@ -1,2 +1,2 @@
 # FTPServer
-A High Performance FTP Server 😎
+A High Performance FTP Server written in Java 😎
